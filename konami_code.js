@@ -24,12 +24,12 @@ function init() {
         index++;
 
         if(index === codes.length){
-          alert("Hurray!");
+          alert(`KONAMI!`);
 
           index = 0;
         }
       } else {
-        index = 0;
+        
       }
     } )
 }
